@@ -4,4 +4,5 @@ let result=add(10,5);
 result=subtract(20,10);
 result=mutliplication(25,10);
 result=division(25,5);
+//es6 module
 console.log(result);
